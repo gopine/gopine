@@ -1,8 +1,8 @@
-# Hello, I'm gopine
+# Do You Write a Diary Every Day? I Certainly Do.
 
-Do you write diary everyday? I do. Please visit the following:
+Welcome to my diary corner! Here you can explore:
 
 - [Diary Browser](https://gopine.github.io/diary-browser)
-- [Diary GitHub Repository](https://github.com/gopine/diary)
+- [Diary Repository](https://github.com/gopine/diary)
 
-Happy journaling!
+Join me on a daily journey of reflection and discovery.
